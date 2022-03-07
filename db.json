@@ -12,13 +12,27 @@
     },
     {
       "id": 3,
-      "name": "Sansung S20+ Ultra",
+      "name": "Samsung S20+ Ultra",
       "price": "7520.89"
     },
     {
       "name": "Lapis Preto Básico",
       "price": "1.50",
       "id": 4
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Funcionário 1",
+      "age": "30",
+      "salary": "1000"
+    },
+    {
+      "name": "Funcionário 2",
+      "age": "38",
+      "salary": "1000",
+      "id": 2
     }
   ]
 }
